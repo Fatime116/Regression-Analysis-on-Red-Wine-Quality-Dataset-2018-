@@ -1,7 +1,9 @@
 # Regression-Analysis-on-Red-Wine-Quality-Dataset-2018-
 
 
-Research Objective : To develop a model estimating the quality of wine based on various predictors. Data source :
+Research Objective : To develop a model estimating the quality of wine based on various predictors.
+
+Data source :
 
 Red wine dataset we used for our project is from UCI Machine Learning Repository
 
